@@ -9,7 +9,7 @@ This is a repo containing explanations and implementations of the following Rein
 ## [Tabular](https://github.com/ceteke/RL/tree/master/Tabular)
 ### [Dynamic Programming](https://github.com/ceteke/RL/tree/master/Tabular/Dynamic%20Programming)
 * [Policy Iteration](https://github.com/ceteke/RL/blob/master/Tabular/Dynamic%20Programming/Policy%20Iteration.ipynb)
-* Value Iteration
+* [Value Iteration](https://github.com/ceteke/RL/blob/master/Tabular/Dynamic%20Programming/Value%20Iteration.ipynb)
 ### Monte Carlo
 * On-Policy Control
 * Exploring Starts
