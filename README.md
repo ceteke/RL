@@ -15,7 +15,7 @@ This is a repo containing explanations and implementations of the following Rein
 * Exploring Starts
 * Off-Policy Control
 ### Temporal Difference
-* On-Policy TD (Sarsa)
+* [On-Policy TD (Sarsa)](https://github.com/ceteke/RL/blob/master/Tabular/Temporal%20Difference/SARSA.ipynb)
 * Off-Policy TD (Q-Learning)
 ## Approximation
 ## Deep Reinforcement Learning
