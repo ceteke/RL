@@ -18,6 +18,7 @@ The tabular methods are demonstrated on OpenAI Gym's FrozenLake environment.
 ### [Temporal Difference](https://github.com/ceteke/RL/tree/master/Tabular/Temporal%20Difference)
 * [On-Policy TD (Sarsa)](https://github.com/ceteke/RL/blob/master/Tabular/Temporal%20Difference/SARSA.ipynb)
 * [Off-Policy TD (Q-Learning)](https://github.com/ceteke/RL/blob/master/Tabular/Temporal%20Difference/Q-Learning.ipynb)
-## Approximation
+## [Approximation](https://github.com/ceteke/RL/tree/master/Approximation)
+* [Linear Sarsa](https://github.com/ceteke/RL/blob/master/Approximation/Linear%20Sarsa.ipynb)
 ## Deep Reinforcement Learning
 
