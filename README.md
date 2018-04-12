@@ -7,6 +7,7 @@ This is a repo containing explanations and implementations of the following Rein
 * ```jupyter notebook```  
 
 ## [Tabular](https://github.com/ceteke/RL/tree/master/Tabular)
+The tabular methods are demonstrated on OpenAI Gym's FrozenLake environment.
 ### [Dynamic Programming](https://github.com/ceteke/RL/tree/master/Tabular/Dynamic%20Programming)
 * [Policy Iteration](https://github.com/ceteke/RL/blob/master/Tabular/Dynamic%20Programming/Policy%20Iteration.ipynb)
 * [Value Iteration](https://github.com/ceteke/RL/blob/master/Tabular/Dynamic%20Programming/Value%20Iteration.ipynb)
@@ -16,7 +17,7 @@ This is a repo containing explanations and implementations of the following Rein
 * Off-Policy Control
 ### Temporal Difference
 * [On-Policy TD (Sarsa)](https://github.com/ceteke/RL/blob/master/Tabular/Temporal%20Difference/SARSA.ipynb)
-* Off-Policy TD (Q-Learning)
+* [Off-Policy TD (Q-Learning)](https://github.com/ceteke/RL/blob/master/Tabular/Temporal%20Difference/Q-Learning.ipynb)
 ## Approximation
 ## Deep Reinforcement Learning
 
