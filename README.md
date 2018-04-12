@@ -6,5 +6,17 @@ This is a repo containing explanations and implementations of the following Rein
 * ```cd RL```
 * ```jupyter notebook```  
 
-## Tabular
-### Dynamic Programming
+## [Tabular](https://github.com/ceteke/RL/tree/master/Tabular)
+### [Dynamic Programming](https://github.com/ceteke/RL/tree/master/Tabular/Dynamic%20Programming)
+* [Policy Iteration](https://github.com/ceteke/RL/blob/master/Tabular/Dynamic%20Programming/Policy%20Iteration.ipynb)
+* Value Iteration
+### Monte Carlo
+* On-Policy Control
+* Exploring Starts
+* Off-Policy Control
+### Temporal Difference
+* On-Policy TD (Sarsa)
+* Off-Policy TD (Q-Learning)
+## Approximation
+## Deep Reinforcement Learning
+
