@@ -15,7 +15,7 @@ The tabular methods are demonstrated on OpenAI Gym's FrozenLake environment.
 * On-Policy Control
 * Exploring Starts
 * Off-Policy Control
-### Temporal Difference
+### [Temporal Difference](https://github.com/ceteke/RL/tree/master/Tabular/Temporal%20Difference)
 * [On-Policy TD (Sarsa)](https://github.com/ceteke/RL/blob/master/Tabular/Temporal%20Difference/SARSA.ipynb)
 * [Off-Policy TD (Q-Learning)](https://github.com/ceteke/RL/blob/master/Tabular/Temporal%20Difference/Q-Learning.ipynb)
 ## Approximation
