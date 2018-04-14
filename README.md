@@ -23,5 +23,6 @@ The tabular methods are demonstrated on OpenAI Gym's FrozenLake environment.
 * [Linear Sarsa](https://github.com/ceteke/RL/blob/master/Approximation/Linear%20Sarsa.ipynb)
 * [Average Reward Linear Sarsa](https://github.com/ceteke/RL/blob/master/Approximation/Average%20Reward%20Semi-Gradient%20Sarsa.ipynb)
 * [n-Step Linear Sarsa](#)
+* [Actor-Critic Action Value Policy Gradient](https://github.com/ceteke/RL/blob/master/Approximation/Actor-Critic%20Policy%20Gradient.ipynb)
 ## Deep Reinforcement Learning
 
