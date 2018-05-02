@@ -25,6 +25,6 @@ The tabular methods are demonstrated on OpenAI Gym's FrozenLake environment.
 * [n-Step Linear Sarsa](#)
 * [Actor-Critic Action Value Policy Gradient](https://github.com/ceteke/RL/blob/master/Approximation/Actor-Critic%20Policy%20Gradient.ipynb)
 ## [Policy Gradient](https://github.com/ceteke/RL/tree/master/Policy%20Gradient)
-* [REINFORCE (Monte Carlo Policy Gradient)](https://github.com/ceteke/RL/blob/master/Policy%20Gradient/REINFORCE.ipynb)
+* [REINFORCE (Monte Carlo Policy Gradient)](https://github.com/ceteke/RL/blob/master/Policy%20Gradient/reinforce.py)
 ## Deep Reinforcement Learning
 
